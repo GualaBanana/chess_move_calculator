@@ -1,0 +1,19 @@
+# v1.0cli
+
+* Add working version of the program.  
+***
+
+# v1.1cli
+
+##### Refactor `Move.cs`:
+
+* Get rid of using alias in `Move.cs.`
+* Supplement documentation in `Move.cs.`
+
+##### Other changes:
+
+* Add change_log.
+* Stop tracking `Program.cs`.
+* `BoundMove` class in `Move.cs` is renamed to `RelativeMove`.
+***
+
